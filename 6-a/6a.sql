@@ -1,0 +1,1 @@
+SELECT p.*, k.name as category, c.name as cashier FROM product p INNER JOIN category k ON p.id_category = k.id INNER JOIN cashier c ON p.id_cashier = c.id

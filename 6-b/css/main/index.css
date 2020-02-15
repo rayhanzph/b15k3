@@ -1,0 +1,62 @@
+* {
+  font-family: Inter, Roboto, sans-serif;
+}
+
+.nav-component {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.add-btn {
+  background-color: rgb(250, 220, 156);
+
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 8px;
+}
+
+.add-btn:hover {
+  background-color: rgb(247, 195, 84);
+  cursor: pointer;
+}
+
+.reset-btn {
+  background-color: #0069d9;
+
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 8px;
+}
+
+.reset-btn:hover {
+  background-color: rgb(6, 88, 177);
+  cursor: pointer;
+}
+
+.shop-title {
+  margin-left: 10px;
+  font-weight: bold;
+  color: rgb(250, 220, 156);
+}
+
+.table-list {
+  margin-top: 80px;
+}
+
+.table-list table {
+  border-radius: 10px;
+}
+
+.thead-bg {
+  border-radius: 10px;
+  background-color: rgb(245, 199, 99);
+  color: white;
+  font-weight: bolder;
+}
