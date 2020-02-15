@@ -6,7 +6,7 @@ Jawaban Soal Arkademy  Batch 15 Kloter 3
 ##### 1 - 5 menggunakan Javascript dapat deksekusi di https://es6console.com/ atau terminal menggunakan node (nama file).js
 
 #### Kegunaan JSON pada REST API:
-#####Sebagai format untuk mengirim dan meminta data pada REST API. Selain JSON format data transfer bisa berupa XML (eXtensible Markup Language) dan plain text, tetapi format data JSON lebih populer karena berukuran ringan dan formatnya lebih mudah untuk dibaca dan dimengerti.
+Sebagai format untuk mengirim dan meminta data pada REST API. Selain JSON format data transfer bisa berupa XML (eXtensible Markup Language) dan plain text, tetapi format data JSON lebih populer karena berukuran ringan dan formatnya lebih mudah untuk dibaca dan dimengerti.
 
 #### Jawaban nomor 6-a:
 ##### Berupa query sql, arkademy.sql adalah query hasil dump utama, sedangkan 6a.sql query untuk inner join table
